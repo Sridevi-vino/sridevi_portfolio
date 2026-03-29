@@ -1,5 +1,5 @@
 # sridevi_portfolio
-🎯 Aspiring AI Engineer | Data Science Enthusiast  
+Aspiring AI Engineer | Data Science & Data Analytics Enthusiast
 
 ## 🔹 About Me
 - Artificial Intelligence Intern at Zetheta Algorithms Private Ltd.
